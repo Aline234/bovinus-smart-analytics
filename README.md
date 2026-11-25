@@ -8,6 +8,7 @@ Protótipo de Hackathon universitário desenvolvido para o **Bovinu'S Grill & Be
 
 ## Links de acesso rápido
 
+- [Aplicação publicada — MVP em modo demonstração](https://bovinus-smart-analytics.vercel.app/)
 - [Vídeo demonstrativo — apresentação prática da solução.](https://drive.google.com/file/d/1coZVVtrhQtsyTc2HeheuDNx_EOpSLxDe/view?usp=drive_link)
 - [Apresentação oficial em PowerPoint](docs/apresentacao-bovinus-smart-analytics.pptx) · [Apresentação oficial em PDF](docs/apresentacao-bovinus-smart-analytics.pdf)
 - [Capturas do sistema](#capturas-de-tela) · [Demonstração da comanda 0042](#demonstração-prática) · [Instruções de execução](#instruções-de-execução)
@@ -264,4 +265,4 @@ Para executar o teste de navegador, instale o Chromium com `npx playwright insta
 - [x] Documentação da persistência local e do banco de dados opcional
 - [x] Instruções para execução
 - [x] Integrantes da equipe Super Onze confirmados
-- [ ] Link da aplicação publicada, quando disponível
+- [x] Link da aplicação publicada e modo demonstração verificado
